@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>12B403DD-F363-439C-96A9-0D5C994142CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12B403DD-F363-439C-96A9-0D5C994142CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build CoreDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>579634747.57976198</real>
+			<key>timeStoppedRecording</key>
+			<real>579634757.08288205</real>
+			<key>title</key>
+			<string>Build CoreDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>12B403DD-F363-439C-96A9-0D5C994142CD</string>
+		</dict>
+		<key>1CB2C39B-6DAA-40E6-9896-C83DBA21524A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CB2C39B-6DAA-40E6-9896-C83DBA21524A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build CoreDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>579634145.55577099</real>
+			<key>timeStoppedRecording</key>
+			<real>579634159.07561004</real>
+			<key>title</key>
+			<string>Build CoreDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>1CB2C39B-6DAA-40E6-9896-C83DBA21524A</string>
+		</dict>
+		<key>9B792BFD-BD86-404A-A67E-FC4ACCB43AA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B792BFD-BD86-404A-A67E-FC4ACCB43AA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build CoreDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>579634657.69790006</real>
+			<key>timeStoppedRecording</key>
+			<real>579634664.19614804</real>
+			<key>title</key>
+			<string>Build CoreDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>9B792BFD-BD86-404A-A67E-FC4ACCB43AA8</string>
+		</dict>
+		<key>BE8FE856-9243-4D21-A191-36C39CDDE8EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE8FE856-9243-4D21-A191-36C39CDDE8EC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>CoreDataExample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CoreDataExample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build CoreDataExample</string>
+			<key>timeStartedRecording</key>
+			<real>579634367.48233104</real>
+			<key>timeStoppedRecording</key>
+			<real>579634370.72969902</real>
+			<key>title</key>
+			<string>Build CoreDataExample</string>
+			<key>uniqueIdentifier</key>
+			<string>BE8FE856-9243-4D21-A191-36C39CDDE8EC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
